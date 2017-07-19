@@ -1,0 +1,5 @@
+/*En nuestro archivo main.scss importamos nuestros rchivos con la siguiente sintaxis: @import 'nombre del archivo';*/
+@import 'assets/stylesheets/_bootstrap.scss';
+@import '_variables.scss';
+@import '_mixin.scss';
+@import '_bases.scss';
